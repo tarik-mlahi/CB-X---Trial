@@ -8,7 +8,7 @@
  *******************************************************************************/
 
 package com.jke.beans;
-//test 12345
+//test 123456
 public enum AccountTypeBean {
 	Checking("Checking Account"), 
 	Savings("Savings Account"), 
