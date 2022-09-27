@@ -8,7 +8,7 @@
  *******************************************************************************/
 
 package com.jke.beans;
-//test123
+//test1
 public class ContributionBean {
 	private int accountNumber;
 	private String organization;
