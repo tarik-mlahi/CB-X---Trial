@@ -6,7 +6,7 @@
  * duplication or disclosure restricted by GSA ADP Schedule 
  * Contract with IBM Corp.
  *******************************************************************************/
-
+// comment
 package com.jke.organization;
 
 public abstract class Organization {
