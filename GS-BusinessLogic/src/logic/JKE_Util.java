@@ -6,7 +6,7 @@
  * duplication or disclosure restricted by GSA ADP Schedule 
  * Contract with IBM Corp.
  *******************************************************************************/
-
+// CB X demo
 package com.jke.logic;
 
 import com.jke.beans.UserBean;
