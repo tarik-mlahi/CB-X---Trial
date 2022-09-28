@@ -8,7 +8,7 @@
  *******************************************************************************/
 
 package com.jke.beans;
-//test 3
+//test
 public enum AccountTypeBean {
 	Checking("Checking Account"), 
 	Savings("Savings Account"), 
